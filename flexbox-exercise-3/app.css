@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.hero {
+  background-color: #77edd9;
+  color: #013d33;
+  min-height: 80vh;
+}
+
+h1 {
+  margin: 0 0 8px;
+  text-transform: uppercase;
+}
+
+p {
+  margin: 0;
+}
